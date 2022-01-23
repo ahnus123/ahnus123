@@ -35,21 +35,13 @@
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=SonarQube&logoColor=white"/></a>
 </p>
-<div aline="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunha03&layout=compact&theme=dracula)](https://github.com/metleeha)
-
-</div>
-
 <h3 align="center">🌕 🌖 🌗 🌘 🌑 🌒 🌓 🌔</h3>
 
 
 
-<div alien="center">
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunha03%2Fhit-counter&count_bg=%2385B0DB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
-![Sunha03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunha&show_icons=true&theme=discord_old_blurple)
-
-</div>
+![Sunha03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunha&show_icons=true&theme=discord_old_blurple)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunha03&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8DB4ED&height=200&section=footer&animation=twinkling)
