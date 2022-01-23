@@ -2,7 +2,7 @@
 
 <h3 align="center">🐻‍❄️ Tech Stacks 🐻‍❄️</h3>
 <p align="center">
-  <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunha03&layout=compact&theme=dracula"/></a>
+  <a href="https://github.com/Sunha03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunha03&layout=compact&theme=dracula"/></a>
 </p>
 
 <div align="center">
@@ -46,7 +46,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunha03%2Fhit-counter&count_bg=%2385B0DB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </br>
 </br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://github-readme-stats.vercel.app/api?username=Sunha&show_icons=true&theme=discord_old_blurple"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://github-readme-stats.vercel.app/api?username=Sunha03&show_icons=true&theme=discord_old_blurple"/></a>
 </div>
 
 
